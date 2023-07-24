@@ -1,14 +1,21 @@
 {
-    "name": "m140",
+    "name": "M134",
     "libraries": [
-        ":firebase-config",
+        ":firebase-appdistribution",
+        ":firebase-appdistribution-api",
+        ":firebase-appdistribution-api:ktx",
+        ":firebase-firestore",
+        ":firebase-firestore:ktx",
+        ":firebase-messaging-directboot",
+        ":firebase-messaging:ktx",
+        ":firebase-messaging",
+        ":firebase-config",  
         ":firebase-config:ktx",
-        ":firebase-config-interop",
-        ":firebase-crashlytics",
         ":firebase-crashlytics-ndk",
+        ":firebase-crashlytics",
         ":firebase-crashlytics:ktx",
-        ":firebase-perf",
         ":firebase-perf:ktx",
+        ":firebase-perf",
         ":firebase-sessions"
     ]
 }
