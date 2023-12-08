@@ -3,8 +3,11 @@
 # 18.6.0
 * [changed] Updated `firebase-crashlytics` dependency to v18.6.0
 
+# 18.6.0
+* [changed] Updated `firebase-crashlytics` dependency to v18.6.0
+
 # 18.5.0
-* [changed] Updated `firebase-crashlytics` dependency to v18.4.3
+* [changed] Updated `firebase-crashlytics` dependency to v18.5.0
 
 # 18.4.3
 * [changed] Updated `firebase-crashlytics` dependency to v18.4.3
