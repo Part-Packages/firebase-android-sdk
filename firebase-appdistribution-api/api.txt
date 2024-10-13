@@ -4,7 +4,6 @@ package com.google.firebase.appdistribution {
   public interface AppDistributionRelease {
     method @NonNull public com.google.firebase.appdistribution.BinaryType getBinaryType();
     method @NonNull public String getDisplayVersion();
-    method @Nullable public String getReleaseNotes();
     method @NonNull public long getVersionCode();
   }
 
